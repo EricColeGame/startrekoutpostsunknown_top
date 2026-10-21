@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "release": "Release",
+    "demo": "Demo",
+    "reviews": "Reviews",
+    "community": "Community",
+    "media": "Media"
   },
   "home": {
     "meta": {
@@ -28,7 +35,7 @@
       ],
       "primaryCta": "Play on Steam",
       "secondaryCta": "Beginner Guide",
-      "tertiaryCta": "Crew Roles Guide",
+      "tertiaryCta": "First Steps",
       "videoLabel": "Official trailer"
     },
     "updates": {
@@ -431,12 +438,40 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Star Trek Outposts Unknown Guides",
+    "overviewDescription": "Beginner walkthroughs, survival priorities, and practical tips for Star Trek Outposts Unknown."
+  },
+  "mechanics": {
+    "overviewTitle": "Star Trek Outposts Unknown Mechanics",
+    "overviewDescription": "Understand outpost construction, colony growth, food production, resource chains, and ship systems in Star Trek Outposts Unknown."
+  },
+  "release": {
+    "overviewTitle": "Star Trek Outposts Unknown Release & Platforms",
+    "overviewDescription": "Release date details, Steam availability, console plans, pricing, and PC system requirements."
+  },
+  "demo": {
+    "overviewTitle": "Star Trek Outposts Unknown Demo",
+    "overviewDescription": "Demo availability, gameplay impressions, download details, and what the removed demo means for players."
+  },
+  "reviews": {
+    "overviewTitle": "Star Trek Outposts Unknown Reviews",
+    "overviewDescription": "Hands-on impressions, gameplay reviews, and value assessments for Star Trek Outposts Unknown."
+  },
+  "community": {
+    "overviewTitle": "Star Trek Outposts Unknown Community",
+    "overviewDescription": "Official Discord, Reddit discussions, and multiplayer questions for Star Trek Outposts Unknown."
+  },
+  "media": {
+    "overviewTitle": "Star Trek Outposts Unknown Media",
+    "overviewDescription": "Official trailers, announcement footage, and Kourou planet gameplay for Star Trek Outposts Unknown."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
+    "guideHub": "Guide Hub",
+    "guideHubDescription": "Start with the beginner guide, then follow the mechanics and release pages that match your next question.",
+    "browseGuides": "Browse all guides",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
     "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
@@ -462,9 +497,9 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Steam Community",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "mechanics": "Mechanics",
+    "release": "Release",
+    "demo": "Demo",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

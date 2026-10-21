@@ -1,0 +1,133 @@
+export const metadata = {
+  title: "Star Trek Outposts Unknown System Requirements: Can Your PC Run It?",
+  description: "Full Star Trek Outposts Unknown system requirements: minimum vs. recommended specs, plus simple ways to check if your PC can run the outpost builder.",
+  category: "release",
+  date: "2026-10-21",
+}
+
+## Why the Star Trek Outposts Unknown System Requirements Matter on Launch Week
+
+If you're planning to beam into the X'Lehari System, the first thing worth checking is whether your rig can actually handle it. The **Star Trek Outposts Unknown system requirements** land in a reasonable middle ground for a modern strategy game, but a few details can quietly trip up older builds. Below you'll find the complete **Star Trek Outposts Unknown system requirements**, a plain-English breakdown of each tier, and practical steps to check your PC in under five minutes — no benchmark degree required.
+
+Star Trek: Outposts Unknown is a narrative-driven outpost builder from developer Magic Fuel Games, published by Playstack, and it launched on October 20, 2026. You lead a crew across strange new worlds, research technology, expand a base, and manage officers while a mysterious cosmic force threatens a fragile civilization. It's a single-player colony sim with real-time-with-pause strategy elements, so performance matters less for twitch reflexes and more for late-game colony sprawl.
+
+The good news: the bar is lower than most 2026 releases. The less good news: one requirement in particular is stricter than players expect.
+
+## Full Star Trek Outposts Unknown System Requirements at a Glance
+
+The official specs are published on the [Star Trek: Outposts Unknown Steam store page](https://store.steampowered.com/app/3469910/Star_Trek_Outposts_Unknown/), and they're refreshingly short. Here's the complete list, side by side.
+
+| Component | Minimum | Recommended |
+|---|---|---|
+| OS | Windows 10, Version 21H1 | 64-bit Windows (version not specified) |
+| Processor | AMD Ryzen 5 2600 or Intel Core i5-8500 | AMD Ryzen 7 7800X3D or Intel Core i5-14600K |
+| Memory | 16 GB RAM | 16 GB RAM |
+| Graphics | NVIDIA GTX 1660 (6 GB) or AMD Radeon RX 5600 XT (8 GB) | NVIDIA GeForce RTX 3060 or AMD Radeon RX 5700 XT |
+| Storage | 10 GB available space | 10 GB available space |
+| Additional | 64-bit processor and OS required | 64-bit processor and OS required |
+
+Two things jump out immediately. First, **16 GB of RAM is required at both tiers** — there's no 8 GB floor here. Second, the install footprint is tiny at 10 GB, which is unusually lean for a base-building game with a full narrative campaign.
+
+For context on what you're installing: the game ships with 53 Steam achievements, Steam Cloud support, Family Sharing, and eight supported languages (English plus French, German, Spanish — Spain, Polish, Portuguese — Brazil, Simplified Chinese, and Spanish — Latin America), with English as the only full-audio option.
+
+## Minimum vs. Recommended: What Actually Changes
+
+The gap between the two tiers is almost entirely CPU and GPU. Memory and storage are identical, so you don't need to buy anything extra in those departments if you already clear the minimum.
+
+### Processor comparison
+
+| Tier | AMD Option | Intel Option | What It Signals |
+|---|---|---|---|
+| Minimum | Ryzen 5 2600 | Core i5-8500 | Six cores from the 2018 era; fine for a modest colony |
+| Recommended | Ryzen 7 7800X3D | Core i5-14600K | Modern high-clock chips for large, late-game bases |
+
+The recommended CPUs are notably newer than the recommended GPUs — a Ryzen 7 7800X3D is a current-generation gaming flagship. That's a strong hint that the simulation layer (colonist pathing, resource ticks, event logic) scales with CPU headroom as your outpost grows, which is typical for colony sims.
+
+### Graphics card comparison
+
+| Tier | NVIDIA | AMD | Roughly Targets |
+|---|---|---|---|
+| Minimum | GTX 1660 (6 GB) | RX 5600 XT (8 GB) | 1080p with settings tuned down |
+| Recommended | RTX 3060 | RX 5700 XT | 1080p high, or higher resolutions with adjustments |
+
+Note that the minimum AMD card carries 8 GB of VRAM while the NVIDIA card has 6 GB. If you're on a 4 GB card from an older generation, treat that as below spec rather than "probably fine."
+
+### A quick reality check on the OS line
+
+The minimum lists Windows 10 Version 21H1 specifically. The recommended row only says "64-bit processor and operating system," which is vague — it doesn't name Windows 11. If you're on Windows 11, you're almost certainly fine, but if you're still on an early Windows 10 build, run `winver` and update before launch day. This is the single most common reason a machine that "should" run the game gets a compatibility warning.
+
+## How to Check Your PC Before You Buy
+
+You don't need to install anything to verify the **Star Trek Outposts Unknown system requirements** on your own hardware. Work through this checklist in order.
+
+| Step | What to Do | What You're Confirming |
+|---|---|---|
+| 1 | Press Windows key, type `dxdiag`, hit Enter | OS version, CPU model, and total RAM on the System tab |
+| 2 | Open the Display or Render tab in dxdiag | Exact GPU name and dedicated VRAM |
+| 3 | Open Settings → System → Storage | Free space on your target drive (need 10 GB+) |
+| 4 | Open Task Manager → Performance → Memory | Whether you actually have 16 GB installed, not 8 GB |
+| 5 | Compare your GPU name to the table above | Whether you're above, at, or below the minimum card |
+| 6 | Update your GPU driver | Avoids launch-day crashes unrelated to raw specs |
+
+A few practical notes on reading your own results:
+
+- **Laptop GPUs are not desktop GPUs.** A "RTX 3060 Laptop GPU" is a different, slower chip than a desktop RTX 3060. Treat mobile parts as one tier lower than the name suggests.
+- **Integrated graphics won't cut it.** The minimum is a discrete card with 6–8 GB of VRAM, so Intel Iris Xe or AMD Radeon integrated graphics fall well short.
+- **"16 GB RAM" means installed, not available.** If you have 16 GB but 4 GB is permanently eaten by background apps, close them before playing.
+
+If your CPU and GPU both clear the minimum and you have 16 GB of RAM plus 10 GB free, you should be able to play. You just may need to lower settings once your colony gets big.
+
+## Storage, RAM, and the Details Players Overlook
+
+These are the small print items that generate the most confusion after launch, and they're worth two minutes of attention.
+
+| Detail | What the Spec Says | What It Means in Practice |
+|---|---|---|
+| RAM | 16 GB minimum and recommended | No upgrade path between tiers; 8 GB systems are unsupported |
+| Storage | 10 GB available | Small install, but leave extra room for saves and patches |
+| Architecture | 64-bit required | 32-bit Windows is a hard no |
+| OS floor | Windows 10 Version 21H1 | Older Windows 10 builds need updating first |
+| Audio | English full audio only | Other languages are subtitles and interface only |
+| Steam Deck | Listed as "Unknown" | Not verified — don't assume handheld support |
+
+The RAM figure deserves emphasis. In 2026, 16 GB is the practical floor for most sim and strategy titles, and this game doesn't offer a reduced-spec path. If you're sitting on 8 GB, a memory kit is the cheapest meaningful upgrade you can make — and it's the one requirement you cannot work around with settings tweaks.
+
+On storage: 10 GB is genuinely small, so don't worry about drive space. Do keep a few gigabytes of headroom for save files, since colony builders tend to accumulate them quickly, and patches will add to the total over time.
+
+## Steam Deck, Laptops, and Smart Upgrade Advice
+
+Handheld players have been asking the obvious question, and the honest answer is: the store page currently lists Steam Deck compatibility as **Unknown**. That's not a "no" — it's an untested status. Until it's verified, don't buy the game assuming it will run well on Deck, especially given the 16 GB RAM requirement and the CPU-heavy late game.
+
+Community reports on Steam at the time of writing sit at a Mixed rating, with roughly 42% of about 33 purchaser reviews positive. Early player experience often centers on pacing and polish rather than raw performance, but treat that as a snapshot of launch week rather than a verdict — colony sims frequently improve substantially in the months after release.
+
+### If you need to upgrade, spend here first
+
+| Priority | Component | When It's Worth It | Notes |
+|---|---|---|---|
+| 1 | RAM (to 16 GB) | You have 8 GB installed | Cheapest fix; required at every tier |
+| 2 | GPU | You're on a 4 GB card or older | A used RTX 3060-class card covers the recommended tier |
+| 3 | CPU | You're below a Ryzen 5 2600 / i5-8500 | Matters most for large late-game colonies |
+| 4 | SSD | You're on a mechanical drive | Not required, but improves load times and save speed |
+
+The RTX 3060 appearing as the *recommended* GPU is genuinely good news — it's a mainstream card, not a flagship, so the graphics bar is approachable. The Ryzen 7 7800X3D on the same row is the outlier. You do not need that chip to play; you need it to play at maximum colony scale without slowdowns.
+
+One more purchasing note: the game launched with an introductory 10% discount, dropping the $32.99 price to $29.69 through October 27, and there's a bundle with Star Trek: Voyager – Across the Unknown that stacks a further discount. Worth knowing if you're budgeting for an upgrade at the same time.
+
+## FAQ: Star Trek Outposts Unknown System Requirements
+
+**Can I run Star Trek Outposts Unknown system requirements on 8 GB of RAM?**
+No. The **Star Trek Outposts Unknown system requirements** list 16 GB at both minimum and recommended tiers, with no lower-spec option. Adding a matching memory kit is the single most effective upgrade if you're currently at 8 GB.
+
+**Is a GTX 1660 really enough?**
+Yes, according to the official minimum. The GTX 1660 (6 GB) or RX 5600 XT (8 GB) is the stated floor, which should translate to 1080p play with settings reduced. Expect to lower detail once your outpost grows and more objects are on screen.
+
+**Do I need Windows 11?**
+No. The minimum specifies Windows 10 Version 21H1, and the recommended row only asks for a 64-bit OS without naming a version. Windows 10 up to date or Windows 11 both satisfy the listed requirements.
+
+**Does the game work on Steam Deck?**
+Compatibility is currently listed as Unknown on Steam, meaning it hasn't been verified. Given the 16 GB RAM requirement and the CPU-driven simulation, it's safer to wait for an official rating before buying for handheld play.
+
+**How much disk space should I actually free up?**
+The listed requirement is 10 GB, which is small. Aim for 15–20 GB free so saves, patches, and shader caches have room to grow without you managing space mid-campaign.
+
+Checking the **Star Trek Outposts Unknown system requirements** takes about five minutes, and it's five minutes well spent. Confirm your RAM, GPU, and Windows build, clear 10 GB of space, update your driver — then you can focus on the part that actually matters: keeping your crew alive in the X'Lehari System.

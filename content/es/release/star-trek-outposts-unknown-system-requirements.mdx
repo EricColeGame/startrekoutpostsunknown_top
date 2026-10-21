@@ -1,0 +1,133 @@
+export const metadata = {
+  title: "Requisitos del sistema de Star Trek Outposts Unknown: ¿puede tu PC ejecutarlo?",
+  description: "Requisitos completos del sistema de Star Trek Outposts Unknown: especificaciones mínimas frente a recomendadas, además de formas sencillas de comprobar si tu PC puede ejecutar el constructor de puestos de avanzada.",
+  category: "release",
+  date: "2026-10-21",
+}
+
+## Por qué los requisitos del sistema de Star Trek Outposts Unknown importan en la semana de lanzamiento
+
+Si tienes previsto teletransportarte al sistema X'Lehari, lo primero que merece la pena comprobar es si tu equipo puede realmente con ello. Los **requisitos del sistema de Star Trek Outposts Unknown** se sitúan en un término medio razonable para un juego de estrategia moderno, pero algunos detalles pueden pillar desprevenidos a los equipos más antiguos. A continuación encontrarás los **requisitos del sistema de Star Trek Outposts Unknown** completos, un desglose en lenguaje sencillo de cada nivel y pasos prácticos para comprobar tu PC en menos de cinco minutos, sin necesidad de ningún título en benchmarks.
+
+Star Trek: Outposts Unknown es un constructor de puestos de avanzada con narrativa del desarrollador Magic Fuel Games, publicado por Playstack, y se lanzó el 20 de octubre de 2026. Lideras a una tripulación por mundos extraños, investigas tecnología, amplías una base y gestionas oficiales mientras una misteriosa fuerza cósmica amenaza a una civilización frágil. Es un simulador de colonias para un solo jugador con elementos de estrategia en tiempo real con pausa, así que el rendimiento importa menos para los reflejos rápidos y más para la expansión de la colonia en el juego tardío.
+
+La buena noticia: el listón es más bajo que el de la mayoría de los lanzamientos de 2026. La no tan buena noticia: un requisito en particular es más estricto de lo que los jugadores esperan.
+
+## Requisitos del sistema de Star Trek Outposts Unknown completos de un vistazo
+
+Las especificaciones oficiales están publicadas en la [página de la tienda de Steam de Star Trek: Outposts Unknown](https://store.steampowered.com/app/3469910/Star_Trek_Outposts_Unknown/), y son refrescantemente breves. Aquí tienes la lista completa, lado a lado.
+
+| Componente | Mínimo | Recomendado |
+|---|---|---|
+| SO | Windows 10, versión 21H1 | Windows de 64 bits (versión no especificada) |
+| Procesador | AMD Ryzen 5 2600 o Intel Core i5-8500 | AMD Ryzen 7 7800X3D o Intel Core i5-14600K |
+| Memoria | 16 GB de RAM | 16 GB de RAM |
+| Gráficos | NVIDIA GTX 1660 (6 GB) o AMD Radeon RX 5600 XT (8 GB) | NVIDIA GeForce RTX 3060 o AMD Radeon RX 5700 XT |
+| Almacenamiento | 10 GB de espacio disponible | 10 GB de espacio disponible |
+| Adicional | Se requiere procesador y SO de 64 bits | Se requiere procesador y SO de 64 bits |
+
+Dos cosas llaman la atención de inmediato. Primero, **se requieren 16 GB de RAM en ambos niveles**: aquí no hay un mínimo de 8 GB. Segundo, la huella de instalación es diminuta, con 10 GB, lo cual es inusualmente ligero para un juego de construcción de bases con una campaña narrativa completa.
+
+Como contexto sobre lo que estás instalando: el juego incluye 53 logros de Steam, compatibilidad con Steam Cloud, uso compartido familiar y ocho idiomas compatibles (inglés, además de francés, alemán, español de España, polaco, portugués de Brasil, chino simplificado y español de Latinoamérica), con el inglés como única opción de audio completo.
+
+## Mínimo frente a recomendado: qué cambia realmente
+
+La diferencia entre ambos niveles es casi por completo CPU y GPU. La memoria y el almacenamiento son idénticos, así que no necesitas comprar nada extra en esos apartados si ya cumples con el mínimo.
+
+### Comparación de procesadores
+
+| Nivel | Opción AMD | Opción Intel | Qué indica |
+|---|---|---|---|
+| Mínimo | Ryzen 5 2600 | Core i5-8500 | Seis núcleos de la era de 2018; suficiente para una colonia modesta |
+| Recomendado | Ryzen 7 7800X3D | Core i5-14600K | Chips modernos de alta frecuencia para bases grandes en el juego tardío |
+
+Los CPU recomendados son notablemente más nuevos que las GPU recomendadas: un Ryzen 7 7800X3D es un buque insignia de juego de la generación actual. Es una pista sólida de que la capa de simulación (rutas de los colonos, ciclos de recursos, lógica de eventos) escala con el margen de la CPU a medida que crece tu puesto de avanzada, algo típico de los simuladores de colonias.
+
+### Comparación de tarjetas gráficas
+
+| Nivel | NVIDIA | AMD | Objetivos aproximados |
+|---|---|---|---|
+| Mínimo | GTX 1660 (6 GB) | RX 5600 XT (8 GB) | 1080p con ajustes reducidos |
+| Recomendado | RTX 3060 | RX 5700 XT | 1080p en alto, o resoluciones superiores con ajustes |
+
+Ten en cuenta que la tarjeta AMD mínima lleva 8 GB de VRAM mientras que la NVIDIA tiene 6 GB. Si tienes una tarjeta de 4 GB de una generación anterior, considérala por debajo de las especificaciones en lugar de "probablemente suficiente".
+
+### Una rápida comprobación de la realidad sobre el apartado del SO
+
+El mínimo indica Windows 10 versión 21H1 específicamente. La fila de recomendado solo dice "procesador y sistema operativo de 64 bits", lo cual es vago: no menciona Windows 11. Si tienes Windows 11, casi con total seguridad estás bien, pero si sigues con una compilación temprana de Windows 10, ejecuta `winver` y actualiza antes del día del lanzamiento. Esta es la razón más común por la que una máquina que "debería" ejecutar el juego recibe un aviso de compatibilidad.
+
+## Cómo comprobar tu PC antes de comprar
+
+No necesitas instalar nada para verificar los **requisitos del sistema de Star Trek Outposts Unknown** en tu propio hardware. Sigue esta lista de comprobación en orden.
+
+| Paso | Qué hacer | Qué estás confirmando |
+|---|---|---|
+| 1 | Pulsa la tecla Windows, escribe `dxdiag` y pulsa Enter | Versión del SO, modelo de CPU y RAM total en la pestaña Sistema |
+| 2 | Abre la pestaña Pantalla o Renderizar en dxdiag | Nombre exacto de la GPU y VRAM dedicada |
+| 3 | Abre Configuración → Sistema → Almacenamiento | Espacio libre en tu unidad de destino (necesitas 10 GB+) |
+| 4 | Abre el Administrador de tareas → Rendimiento → Memoria | Si realmente tienes 16 GB instalados, no 8 GB |
+| 5 | Compara el nombre de tu GPU con la tabla de arriba | Si estás por encima, en o por debajo de la tarjeta mínima |
+| 6 | Actualiza el controlador de tu GPU | Evita cuelgues del día del lanzamiento no relacionados con las especificaciones |
+
+Algunas notas prácticas para interpretar tus propios resultados:
+
+- **Las GPU de portátil no son GPU de sobremesa.** Una "RTX 3060 Laptop GPU" es un chip distinto y más lento que una RTX 3060 de sobremesa. Trata los componentes móviles como un nivel por debajo de lo que sugiere el nombre.
+- **Los gráficos integrados no sirven.** El mínimo es una tarjeta dedicada con 6–8 GB de VRAM, así que los gráficos integrados Intel Iris Xe o AMD Radeon se quedan muy cortos.
+- **"16 GB de RAM" significa instalados, no disponibles.** Si tienes 16 GB pero 4 GB los consumen permanentemente aplicaciones en segundo plano, ciérralas antes de jugar.
+
+Si tu CPU y tu GPU superan ambas el mínimo y tienes 16 GB de RAM más 10 GB libres, deberías poder jugar. Solo puede que necesites bajar los ajustes cuando tu colonia se haga grande.
+
+## Almacenamiento, RAM y los detalles que los jugadores pasan por alto
+
+Estos son los puntos de la letra pequeña que generan más confusión tras el lanzamiento, y merecen dos minutos de atención.
+
+| Detalle | Qué dicen las especificaciones | Qué significa en la práctica |
+|---|---|---|
+| RAM | 16 GB mínimo y recomendado | No hay ruta de mejora entre niveles; los sistemas de 8 GB no son compatibles |
+| Almacenamiento | 10 GB disponibles | Instalación pequeña, pero deja espacio extra para partidas guardadas y parches |
+| Arquitectura | Se requiere 64 bits | Windows de 32 bits es un no rotundo |
+| Requisito mínimo de SO | Windows 10 versión 21H1 | Las compilaciones más antiguas de Windows 10 necesitan actualizarse primero |
+| Audio | Solo audio completo en inglés | Los demás idiomas son solo subtítulos e interfaz |
+| Steam Deck | Aparece como "Desconocido" | No verificado: no des por hecho la compatibilidad portátil |
+
+La cifra de RAM merece énfasis. En 2026, 16 GB es el mínimo práctico para la mayoría de los títulos de simulación y estrategia, y este juego no ofrece una ruta de especificaciones reducidas. Si te quedas en 8 GB, un kit de memoria es la mejora significativa más barata que puedes hacer, y es el único requisito que no puedes sortear con ajustes de configuración.
+
+Sobre el almacenamiento: 10 GB es genuinamente poco, así que no te preocupes por el espacio en disco. Sí conviene mantener unos cuantos gigabytes de margen para los archivos de partidas guardadas, ya que los constructores de colonias tienden a acumularlos rápido, y los parches irán sumando al total con el tiempo.
+
+## Steam Deck, portátiles y consejos inteligentes de mejora
+
+Los jugadores de consolas portátiles llevan tiempo haciendo la pregunta obvia, y la respuesta honesta es: la página de la tienda indica actualmente la compatibilidad con Steam Deck como **Desconocida**. Eso no es un "no": es un estado no probado. Hasta que se verifique, no compres el juego dando por hecho que funcionará bien en Deck, especialmente dada la exigencia de 16 GB de RAM y el juego tardío tan intensivo en CPU.
+
+Los informes de la comunidad en Steam en el momento de escribir esto se sitúan en una valoración Mixta, con aproximadamente el 42 % de unas 33 reseñas de compradores positivas. La experiencia temprana de los jugadores suele centrarse en el ritmo y el pulido más que en el rendimiento bruto, pero tómalo como una instantánea de la semana de lanzamiento y no como un veredicto: los simuladores de colonias suelen mejorar sustancialmente en los meses posteriores al lanzamiento.
+
+### Si necesitas mejorar, gasta aquí primero
+
+| Prioridad | Componente | Cuándo merece la pena | Notas |
+|---|---|---|---|
+| 1 | RAM (hasta 16 GB) | Tienes 8 GB instalados | La solución más barata; obligatorio en todos los niveles |
+| 2 | GPU | Tienes una tarjeta de 4 GB o más antigua | Una tarjeta de segunda mano de la clase RTX 3060 cubre el nivel recomendado |
+| 3 | CPU | Estás por debajo de un Ryzen 5 2600 / i5-8500 | Lo que más importa para colonias grandes en el juego tardío |
+| 4 | SSD | Tienes un disco mecánico | No es obligatorio, pero mejora los tiempos de carga y la velocidad de guardado |
+
+Que la RTX 3060 aparezca como GPU *recomendada* es una buena noticia de verdad: es una tarjeta convencional, no un buque insignia, así que el listón gráfico es asequible. El Ryzen 7 7800X3D en la misma fila es la excepción. No necesitas ese chip para jugar; lo necesitas para jugar a la máxima escala de colonia sin ralentizaciones.
+
+Una nota más sobre la compra: el juego se lanzó con un descuento introductorio del 10 %, bajando el precio de 32,99 $ a 29,69 $ hasta el 27 de octubre, y hay un paquete con Star Trek: Voyager – Across the Unknown que acumula un descuento adicional. Vale la pena saberlo si estás presupuestando una mejora al mismo tiempo.
+
+## Preguntas frecuentes: requisitos del sistema de Star Trek Outposts Unknown
+
+**¿Puedo cumplir los requisitos del sistema de Star Trek Outposts Unknown con 8 GB de RAM?**
+No. Los **requisitos del sistema de Star Trek Outposts Unknown** indican 16 GB tanto en el nivel mínimo como en el recomendado, sin opción de especificaciones inferiores. Añadir un kit de memoria compatible es la mejora más eficaz si actualmente tienes 8 GB.
+
+**¿Basta realmente con una GTX 1660?**
+Sí, según el mínimo oficial. La GTX 1660 (6 GB) o la RX 5600 XT (8 GB) es el requisito declarado, lo que debería traducirse en jugar a 1080p con los ajustes reducidos. Espera tener que bajar el detalle cuando tu puesto de avanzada crezca y haya más objetos en pantalla.
+
+**¿Necesito Windows 11?**
+No. El mínimo especifica Windows 10 versión 21H1, y la fila de recomendado solo pide un SO de 64 bits sin nombrar una versión. Tanto Windows 10 actualizado como Windows 11 satisfacen los requisitos indicados.
+
+**¿Funciona el juego en Steam Deck?**
+La compatibilidad aparece actualmente como Desconocida en Steam, lo que significa que no se ha verificado. Dado el requisito de 16 GB de RAM y la simulación impulsada por CPU, es más seguro esperar a una valoración oficial antes de comprarlo para jugar en portátil.
+
+**¿Cuánto espacio en disco debería liberar realmente?**
+El requisito indicado es de 10 GB, lo cual es poco. Apunta a 15–20 GB libres para que las partidas guardadas, los parches y las cachés de sombreadores tengan espacio para crecer sin que tengas que gestionar el espacio a mitad de campaña.
+
+Comprobar los **requisitos del sistema de Star Trek Outposts Unknown** lleva unos cinco minutos, y son cinco minutos bien empleados. Confirma tu RAM, tu GPU y tu compilación de Windows, libera 10 GB de espacio, actualiza tu controlador y entonces podrás centrarte en lo que realmente importa: mantener viva a tu tripulación en el sistema X'Lehari.

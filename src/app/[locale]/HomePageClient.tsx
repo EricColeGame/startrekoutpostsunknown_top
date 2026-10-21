@@ -35,7 +35,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
         <div className="mt-6 flex flex-wrap items-center justify-center gap-3">
           <Button asChild size="lg"><Link href={siteConfig.gameUrl ?? "https://store.steampowered.com/app/3469910/Star_Trek_Outposts_Unknown/"} target="_blank" rel="noopener noreferrer">{home.hero.primaryCta}</Link></Button>
           <Button asChild size="lg" variant="outline"><Link href={localizeHref("/guide/star-trek-outposts-unknown-beginner-guide", locale)}>{home.hero.secondaryCta}</Link></Button>
-          <Button asChild size="lg" variant="outline"><Link href={localizeHref("/guide/star-trek-outposts-unknown-crew-guide", locale)}>{home.hero.tertiaryCta}</Link></Button>
+          <Button asChild size="lg" variant="outline"><Link href={localizeHref("/guide/star-trek-outposts-unknown-first-steps", locale)}>{home.hero.tertiaryCta}</Link></Button>
         </div>
       </section>
 
@@ -69,7 +69,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
             ))}
           </div>
           <Button asChild className="mt-5 w-full" variant="outline">
-            <Link href={localizeHref("/codes", locale)}>{home.updates.browse}</Link>
+            <Link href={localizeHref("/guide", locale)}>{home.updates.browse}</Link>
           </Button>
         </Card>
 
