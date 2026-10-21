@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Read the mission briefing, scan the landing zone, and place one modest outpost before expanding across the X'Lehari System."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Base Building",
+          "description": "Set up power, housing, research, and storage in the right order so your first outpost can support later expansion."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Resource Management",
+          "description": "Connect food, water, metal, and medical production into stable supply chains before you add a second site."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Star Trek Outposts Unknown."
+          "title": "Crew Roles",
+          "description": "Match Command, Engineering, Medical, Navigation, Science, and Security officers to the tasks where they perform best."
         }
       ]
     },
@@ -66,271 +66,367 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Base Building",
+        "Resource Management",
+        "System Requirements"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Learn how to scan a world, place your first outpost, assign crew, and keep research moving.",
+          "href": "/guide/star-trek-outposts-unknown-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Core",
+          "title": "Base Building",
+          "description": "Plan power, housing, research, storage, and production around a compact outpost footprint.",
+          "href": "/mechanics/star-trek-outposts-unknown-base-building"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Core",
+          "title": "Resource Management",
+          "description": "Balance research, construction, exploration, crew morale, and storage before bottlenecks stall the colony.",
+          "href": "/mechanics/star-trek-outposts-unknown-resource-management"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Survival",
+          "title": "Food Production",
+          "description": "Connect biomatter harvesting, processing, medical supplies, and repairs into one reliable survival chain.",
+          "href": "/mechanics/star-trek-outposts-unknown-food-production"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "System",
+          "title": "System Requirements",
+          "description": "Check the official PC minimum and recommended specs before installing the outpost builder.",
+          "href": "/release/star-trek-outposts-unknown-system-requirements"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Story",
+          "title": "First Steps",
+          "description": "Follow a six-step opening plan for research, outpost layout, crew morale, and manual saves.",
+          "href": "/guide/star-trek-outposts-unknown-first-steps"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Star Trek Outposts Unknown?",
       "paragraphs": [
-        "Star Trek Outposts Unknown is a sci-fi colony builder set in the X'Lehari System. Build research outposts, manage six crew roles, optimize resource logistics, and explore strange new worlds in a story set during the 23rd century.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Star Trek Outposts Unknown is a narrative-driven outpost builder from Magic Fuel Games and Playstack. Set in the 23rd century during the Strange New Worlds era, it follows the crew of the U.S.S. Resonant as they build research outposts across the X'Lehari System and aid a fragile civilization facing a cosmic threat.",
+        "The game combines real-time-with-pause colony management with exploration, branching research, production chains, and officer development. Players balance power, housing, food, medical supplies, metal, and transport while six crew roles keep every outpost running."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Magic Fuel Games"
+        },
+        {
+          "label": "Publisher",
+          "value": "Playstack"
+        },
+        {
+          "label": "Release",
+          "value": "Oct 20, 2026"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC / Steam"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Outpost Builder"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
-        },
-        {
-          "label": "Favorites",
-          "value": "243K+"
-        },
-        {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Mode",
+          "value": "Single-player"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Star Trek Outposts Unknown Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Use these eight guides to plan your first landing, stabilize supply chains, assign crew, choose research, and follow the Tetryon Rift mystery across the X'Lehari System.",
       "modules": [
         {
           "order": 1,
-          "name": "Star Trek Outposts Unknown Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/star-trek-outposts-unknown-codes",
-          "displayType": "code-box",
+          "name": "Star Trek Outposts Unknown Beginner Guide",
+          "description": "Build a stable first outpost with a clear opening checklist covering mission briefings, scans, research, crew assignments, and supply reserves.",
+          "href": "/guide/star-trek-outposts-unknown-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Read the mission briefing and note the current objective before placing any structure."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Scan the landing zone and compare environmental conditions, resource access, and room to expand."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Place one modest outpost and confirm its power, housing, and supply chain before adding a second site."
+            },
+            {
+              "label": "4",
+              "detail": "Assign crew by strength and keep morale and prowess in view before dangerous encounters."
+            },
+            {
+              "label": "5",
+              "detail": "Test one vehicle route and one transporter transfer so you understand the real cost of each."
+            },
+            {
+              "label": "6",
+              "detail": "Keep the research queue full and make a manual save before every major build."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/star-trek-outposts-unknown-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Star Trek Outposts Unknown Resource Management",
+          "description": "Keep research, construction, exploration, crew morale, and storage moving together instead of letting one bottleneck stall the whole colony.",
+          "href": "/mechanics/star-trek-outposts-unknown-resource-management",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Research",
+              "detail": "Keep one research thread staffed; idle research time is the largest early progression loss."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Power",
+              "detail": "Solve power and utility capacity before placing advanced production or research modules."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Storage",
+              "detail": "Add buffer capacity with each production line so overflow never becomes wasted output."
+            },
+            {
+              "label": "Transport",
+              "detail": "Use vehicles for surface hauling and transporters for precise transfers between outposts."
+            },
+            {
+              "label": "Morale",
+              "detail": "Rotate high-stress assignments and check morale after every dangerous encounter."
+            },
+            {
+              "label": "Crew",
+              "detail": "Leave one flexible assignment open so a story event does not dismantle your economy."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/star-trek-outposts-unknown-tier-list",
-          "displayType": "tier-grid",
+          "name": "Star Trek Outposts Unknown Crew Guide",
+          "description": "Compare the six Starfleet crew roles and understand how assignments, morale, prowess, and officer development shape outpost output and encounter survival.",
+          "href": "/guide",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Command",
+              "detail": "Leads mission priorities and keeps exploration, research, and construction aligned."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Engineering",
+              "detail": "Supports construction, repairs, power systems, and the production chain."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Medical",
+              "detail": "Maintains crew health and medical processing after injuries and hazardous field work."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Navigation",
+              "detail": "Handles route planning, planetary surveys, and movement across the X'Lehari System."
+            },
+            {
+              "label": "Science",
+              "detail": "Staffs research facilities and turns survey data into new technology."
+            },
+            {
+              "label": "Security",
+              "detail": "Protects away teams and outposts during dangerous encounters."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/star-trek-outposts-unknown-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Star Trek Outposts Unknown Buildings and Research",
+          "description": "Plan the outpost footprint around power, housing, research, storage, production, and repairs so each module can support the next tech tier.",
+          "href": "/mechanics/star-trek-outposts-unknown-base-building",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Power",
+              "detail": "Place utilities first; every research, production, and habitat module depends on a stable supply."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Housing",
+              "detail": "Expand crew capacity early so morale and staffing do not stall as the outpost grows."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Research",
+              "detail": "Staff research facilities continuously to unlock new structures and technology tiers."
+            },
+            {
+              "label": "Storage",
+              "detail": "Buffer every production line and leave space for resources that arrive from other worlds."
+            },
+            {
+              "label": "Production",
+              "detail": "Build the full input-to-output chain instead of placing isolated harvesters or refiners."
+            },
+            {
+              "label": "Repairs",
+              "detail": "Keep maintenance crews available; damaged buildings remove throughput from the colony."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/star-trek-outposts-unknown-resource-farming",
-          "displayType": "feature-cards",
+          "name": "Star Trek Outposts Unknown Planets Guide",
+          "description": "Rank the X'Lehari System's known destinations by first-outpost risk, resource access, and the logistics support each world demands.",
+          "href": "/demo/star-trek-outposts-unknown-demo-gameplay",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "S",
+              "detail": "Daegus — tropical oasis with water, organics, and open building space; the safest place to learn the core outpost loop."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "A",
+              "detail": "Kourou — frozen glaciers, volcanic badlands, and steam fields; strong resources behind a demanding three-biome logistics puzzle."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "B",
+              "detail": "Neral — the most hostile known world; bring developed officers, deep reserves, and a mature supply network."
+            },
+            {
+              "label": "C",
+              "detail": "Tetryon Rift sites — story-critical destinations that should wait until Daegus and Kourou outposts can run without constant rescue."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/star-trek-outposts-unknown-outpost-upgrades",
-          "displayType": "feature-cards",
+          "name": "Star Trek Outposts Unknown Gameplay Tips",
+          "description": "Use pause deliberately, protect crew morale, and keep flexible buffers so the outpost survives while the Resonant travels to a new world.",
+          "href": "/guide/star-trek-outposts-unknown-first-steps",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Pause",
+              "detail": "Freeze the clock before major placements, tech unlocks, and dangerous story encounters."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Morale",
+              "detail": "Rotate demanding jobs and treat crew stress as a resource that needs active management."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Buffers",
+              "detail": "Stock enough food, medicine, and spare materials to survive one interrupted delivery."
+            },
+            {
+              "label": "Cadre",
+              "detail": "Concentrate officer development on a small command group instead of spreading it across the roster."
+            },
+            {
+              "label": "Routes",
+              "detail": "Build compact outposts and shorten supply lines before expanding deeper into the system."
+            },
+            {
+              "label": "Scans",
+              "detail": "Survey a planet before committing structures; environment and resource access drive the layout."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Star Trek Outposts Unknown System Requirements",
+          "description": "Check the official PC minimum and recommended specifications before installing Star Trek Outposts Unknown and planning a long colony run.",
+          "href": "/release/star-trek-outposts-unknown-system-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "RAM",
+              "detail": "16 GB is required at both minimum and recommended tiers; 8 GB systems are below spec."
+            },
+            {
+              "label": "GPU",
+              "detail": "GTX 1660 6 GB or RX 5600 XT 8 GB at minimum; RTX 3060 or RX 5700 XT recommended."
+            },
+            {
+              "label": "Storage",
+              "detail": "10 GB available space, with extra room left for saves, patches, and shader caches."
+            },
+            {
+              "label": "OS",
+              "detail": "Windows 10 version 21H1 or a current 64-bit Windows installation."
+            },
+            {
+              "label": "CPU",
+              "detail": "Ryzen 5 2600 or Core i5-8500 at minimum; Ryzen 7 7800X3D or Core i5-14600K recommended."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Star Trek Outposts Unknown Story and Missions",
+          "description": "Follow the U.S.S. Resonant's mission through the X'Lehari System, from first contact and outpost construction to the Tetryon Rift mystery.",
+          "href": "/release/star-trek-outposts-unknown-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Resonant",
+              "detail": "The outpost builder-ship serves as command base, orbital warehouse, and supply line for every landing."
+            },
+            {
+              "label": "Tetryon",
+              "detail": "The rift is the central mystery, and each destination adds another angle on the threat."
+            },
+            {
+              "label": "April",
+              "detail": "Admiral Robert April appears in the 23rd-century story alongside other familiar Starfleet faces."
+            },
+            {
+              "label": "Aid",
+              "detail": "The mission is to help a fragile civilization facing an impending catastrophe while the cosmic threat grows."
+            },
+            {
+              "label": "Outposts",
+              "detail": "Permanent research outposts form the campaign's network, so each settlement must run without the captain present."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Star Trek Outposts Unknown.",
+      "title": "Star Trek Outposts Unknown FAQ",
+      "description": "Answers to common questions about Star Trek Outposts Unknown.",
       "items": [
         {
           "question": "What is Star Trek Outposts Unknown?",
-          "answer": "Star Trek Outposts Unknown is a sci-fi outpost building and colony management game from Magic Fuel Games and Playstack. It features six crew roles, resource logistics, research facilities, planet exploration, and a single-player story set in the X'Lehari System."
+          "answer": "Star Trek Outposts Unknown is a narrative-driven outpost builder from Magic Fuel Games and Playstack, set in the 23rd-century X'Lehari System. Players build research outposts, manage six crew roles, and balance exploration, technology, and logistics while investigating the Tetryon Rift."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is Star Trek Outposts Unknown a combat game?",
+          "answer": "No. Star Trek Outposts Unknown is a single-player colony sim with real-time-with-pause strategy elements. Dangerous encounters test crew morale and prowess, but the core loop is research, exploration, construction, and resource management."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What should I build first in Star Trek Outposts Unknown?",
+          "answer": "Begin with one modest outpost on a scanned world. Stabilize power and housing, staff research facilities, connect the first production chain, and add storage before expanding to a second site."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How do crew roles work in Star Trek Outposts Unknown?",
+          "answer": "Star Trek Outposts Unknown uses six roles: Command, Engineering, Medical, Navigation, Science, and Security. Assign officers by strength, rotate high-stress work, and concentrate development on a small core group."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Which planet should I explore first in Star Trek Outposts Unknown?",
+          "answer": "Start on Daegus, the tropical world used for the playable demo. Move to Kourou after your first outpost is stable, and treat Neral as a late challenge because it is the most hostile known world in the system."
         }
       ]
     },
     "finalCta": {
       "title": "Ready to Build Your Outpost in the X'Lehari System?",
-      "description": "From your first landing on Kourou to a thriving research outpost, our community wiki covers crew management, resource logistics, planet exploration, and every step of the journey.",
+      "description": "From your first landing on Daegus to a research network across the X'Lehari System, our wiki covers crew management, resource logistics, planet exploration, and every step of the journey.",
       "primary": "Read the Beginner Guide",
       "secondary": "Play on Steam"
     }
