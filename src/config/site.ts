@@ -25,11 +25,12 @@ export const siteConfig: SiteConfig = {
   tagline: "Outpost Building, Colony Management & X'Lehari System Guides",
   description: "Star Trek Outposts Unknown guides for beginners, outpost building, resource logistics, crew management, planet exploration, strategy tips, and updates.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://startrekoutpostsunknown.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://startrekoutpostsunknown.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@startrekoutpostsunknown.top",
   gameUrl: "https://store.steampowered.com/app/3469910/Star_Trek_Outposts_Unknown/",
-  heroVideoId: "9lIScmkR1IE", // IGN official Kourou planet gameplay reveal
+  heroVideoId: "c2h39AsRVKo", // Star Trek: Outposts Unknown - Official Announcement Trailer
   social: {
-    youtube: "https://www.youtube.com/watch?v=9lIScmkR1IE",
+    discord: "https://discord.gg/Kepp479Ub",
+    youtube: "https://www.youtube.com/@Playstack",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
