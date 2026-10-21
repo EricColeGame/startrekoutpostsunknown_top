@@ -7,22 +7,9 @@
     "legalNotice": "Independent fan wiki. Star Trek and related marks belong to CBS Studios Inc. Not affiliated with CBS, Paramount, Playstack, or Magic Fuel Games."
   },
   "nav": {
-    "races": "Races",
-    "bosses": "Bosses",
-    "guides": "Guides",
-    "codes": "Codes",
-    "tierList": "Tier List",
-    "maps": "Maps",
-    "skills": "Skills",
-    "updates": "Updates",
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme",
-    "guide": "Guides",
-    "seafood": "Seafood & Recipes",
-    "upgrades": "Upgrades",
-    "gamepasses": "Gamepasses",
-    "community": "Community"
+    "toggleTheme": "Toggle theme"
   },
   "home": {
     "meta": {
@@ -348,19 +335,7 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {
-    "meta": {
-      "title": "Bosses — Complete Guide & Walkthrough | Star Trek Outposts Unknown Wiki",
-      "description": "Complete encounter guides for Star Trek Outposts Unknown — hazards, hostile lifeforms, and dangerous cosmic events with strategies and preparation tips."
-    },
-    "overviewTitle": "Bosses Overview",
-    "overviewDescription": "Complete guides for dangerous encounters in Star Trek Outposts Unknown, from hostile wildlife and anomalies to endgame cosmic threats in the X'Lehari System.",
-    "body": "Dangerous encounters in Star Trek Outposts Unknown test your crew, preparation, and outpost logistics. Hostile lifeforms, environmental hazards, and mysterious anomalies can interrupt production and threaten settlements. Use the guides below to prepare your crew, stock essential resources, and keep your outpost operational during every expedition.",
-    "guidesTitle": "Bosses Guides",
-    "readMore": "Read more",
-    "new": "New",
-    "popular": "Popular"
-  },
+  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
