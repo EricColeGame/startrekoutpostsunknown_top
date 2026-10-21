@@ -1,1 +1,506 @@
-{}
+{
+  "site": {
+    "name": "Star Trek Outposts Unknown Wiki",
+    "shortName": "Star Trek Outposts Unknown",
+    "tagline": "Construcción de puestos avanzados, gestión de colonias y guías del sistema X'Lehari",
+    "description": "Guías de Star Trek Outposts Unknown para principiantes, construcción de puestos avanzados, logística de recursos, gestión de tripulación, exploración de planetas, consejos estratégicos y actualizaciones.",
+    "legalNotice": "Wiki de fans independiente. Star Trek y las marcas relacionadas pertenecen a CBS Studios Inc. No está afiliada a CBS, Paramount, Playstack ni Magic Fuel Games."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Alternar tema",
+    "guide": "Guía",
+    "mechanics": "Mecánica",
+    "release": "Lanzamiento",
+    "demo": "Demo",
+    "reviews": "Reseñas",
+    "community": "Comunidad",
+    "media": "Medios"
+  },
+  "home": {
+    "meta": {
+      "title": "Star Trek Outposts Unknown Wiki - Guías, consejos y compilaciones",
+      "description": "Guías de Star Trek: Outposts Unknown para principiantes, construcción de puestos avanzados, logística de recursos, gestión de tripulación, exploración de planetas, consejos estratégicos y actualizaciones."
+    },
+    "hero": {
+      "eyebrow": "Construcción de puestos avanzados de ciencia ficción y gestión de colonias",
+      "title": "Star Trek Outposts Unknown Wiki",
+      "description": "Explora el sistema X'Lehari, construye puestos de investigación, gestiona la tripulación, optimiza la logística de recursos y descubre una misteriosa amenaza cósmica con nuestras guías de Star Trek: Outposts Unknown.",
+      "stats": [
+        "Publicado el 20 de octubre de 2026",
+        "6 roles de tripulación",
+        "PC / Steam",
+        "Un jugador"
+      ],
+      "primaryCta": "Jugar en Steam",
+      "secondaryCta": "Guía para principiantes",
+      "tertiaryCta": "Primeros pasos",
+      "videoLabel": "Tráiler oficial"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Explorar todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Comience aquí",
+      "title": "Tu Star Trek Outposts Unknown viaje",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Lee el informe de la misión, escanea la zona de aterrizaje y coloca un modesto puesto de avanzada antes de expandirte por el sistema X'Lehari."
+        },
+        {
+          "number": "2",
+          "title": "Construcción de bases",
+          "description": "Configure la energía, la vivienda, la investigación y el almacenamiento en el orden correcto para que su primer puesto de avanzada pueda soportar una expansión posterior."
+        },
+        {
+          "number": "3",
+          "title": "Gestión de recursos",
+          "description": "Conecte la producción de alimentos, agua, metales y medicina en cadenas de suministro estables antes de agregar un segundo sitio."
+        },
+        {
+          "number": "4",
+          "title": "Roles de la tripulación",
+          "description": "Haga coincidir a los oficiales de comando, ingeniería, médicos, navegación, ciencia y seguridad con las tareas en las que se desempeñan mejor."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencia ahora",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Construcción de bases",
+        "Gestión de recursos",
+        "Requisitos del sistema"
+      ],
+      "cards": [
+        {
+          "badge": "principiante",
+          "title": "Guía para principiantes",
+          "description": "Aprenda a escanear un mundo, colocar su primer puesto de avanzada, asignar tripulación y mantener la investigación en marcha.",
+          "href": "/guide/star-trek-outposts-unknown-beginner-guide"
+        },
+        {
+          "badge": "Núcleo",
+          "title": "Construcción de bases",
+          "description": "Planifique la energía, la vivienda, la investigación, el almacenamiento y la producción en torno a un espacio compacto de avanzada.",
+          "href": "/mechanics/star-trek-outposts-unknown-base-building"
+        },
+        {
+          "badge": "Núcleo",
+          "title": "Gestión de recursos",
+          "description": "Equilibre la investigación, la construcción, la exploración, la moral de la tripulación y el almacenamiento antes de que los cuellos de botella detengan la colonia.",
+          "href": "/mechanics/star-trek-outposts-unknown-resource-management"
+        },
+        {
+          "badge": "Supervivencia",
+          "title": "Producción de alimentos",
+          "description": "Conecte la recolección, el procesamiento, los suministros médicos y las reparaciones de biomateria en una cadena de supervivencia confiable.",
+          "href": "/mechanics/star-trek-outposts-unknown-food-production"
+        },
+        {
+          "badge": "Sistema",
+          "title": "Requisitos del sistema",
+          "description": "Verifique las especificaciones mínimas y recomendadas oficiales PC antes de instalar Outpost Builder.",
+          "href": "/release/star-trek-outposts-unknown-system-requirements"
+        },
+        {
+          "badge": "historia",
+          "title": "Primeros pasos",
+          "description": "Sigue un plan de apertura de seis pasos para la investigación, el diseño de los puestos avanzados, la moral de la tripulación y los guardados manuales.",
+          "href": "/guide/star-trek-outposts-unknown-first-steps"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Star Trek Outposts Unknown?",
+      "paragraphs": [
+        "Star Trek Outposts Unknown es un constructor narrativo de puestos avanzados de Magic Fuel Games y Playstack. Ambientado en el siglo XXIII, durante la era de Strange New Worlds, sigue a la tripulación del U.S.S. Resonant mientras construye puestos de investigación por todo el sistema X'Lehari y ayuda a una frágil civilización que enfrenta una amenaza cósmica.",
+        "El juego combina la gestión de colonias en tiempo real con pausa, la exploración, la investigación ramificada, las cadenas de producción y el desarrollo de oficiales. Los jugadores equilibran energía, alojamiento, comida, suministros médicos, metal y transporte, mientras seis roles de tripulación mantienen en funcionamiento cada puesto avanzado."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Magic Fuel Games"
+        },
+        {
+          "label": "Editor",
+          "value": "Playstack"
+        },
+        {
+          "label": "Lanzamiento",
+          "value": "20 de octubre de 2026"
+        },
+        {
+          "label": "Plataforma",
+          "value": "PC / Steam"
+        },
+        {
+          "label": "Género",
+          "value": "Constructor de puestos avanzados"
+        },
+        {
+          "label": "Modo",
+          "value": "Un jugador"
+        }
+      ],
+      "cta": "Explora todas las guías"
+    },
+    "explore": {
+      "title": "Explorar Star Trek Outposts Unknown Wiki",
+      "description": "Utiliza estas ocho guías para planificar tu primer aterrizaje, estabilizar las cadenas de suministro, asignar tripulación, elegir investigaciones y seguir el misterio del Tetryon Rift a través del sistema X'Lehari.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Star Trek Outposts Unknown Guía para principiantes",
+          "description": "Construya un primer puesto de avanzada estable con una lista de verificación de apertura clara que cubra informes de misión, escaneos, investigaciones, asignaciones de tripulación y reservas de suministros.",
+          "href": "/guide/star-trek-outposts-unknown-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Lea el informe de la misión y observe el objetivo actual antes de colocar cualquier estructura."
+            },
+            {
+              "label": "2",
+              "detail": "Escanee la zona de aterrizaje y compare las condiciones ambientales, el acceso a los recursos y el espacio para expandirse."
+            },
+            {
+              "label": "3",
+              "detail": "Coloque un puesto avanzado modesto y confirme su energía, vivienda y cadena de suministro antes de agregar un segundo sitio."
+            },
+            {
+              "label": "4",
+              "detail": "Asigna tripulación según su fuerza y mantén la moral y la destreza a la vista antes de encuentros peligrosos."
+            },
+            {
+              "label": "5",
+              "detail": "Pruebe una ruta de vehículo y un traslado de transportador para comprender el costo real de cada uno."
+            },
+            {
+              "label": "6",
+              "detail": "Mantenga la cola de investigación llena y guarde manualmente antes de cada compilación importante."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Star Trek Outposts Unknown Gestión de recursos",
+          "description": "Mantenga la investigación, la construcción, la exploración, la moral de la tripulación y el almacenamiento avanzando juntos en lugar de permitir que un cuello de botella detenga a toda la colonia.",
+          "href": "/mechanics/star-trek-outposts-unknown-resource-management",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Investigación",
+              "detail": "Mantenga un hilo de investigación con personal; El tiempo de inactividad en la investigación es la mayor pérdida de progresión temprana."
+            },
+            {
+              "label": "Energía",
+              "detail": "Resuelva la capacidad de energía y servicios públicos antes de colocar módulos avanzados de producción o investigación."
+            },
+            {
+              "label": "Almacenamiento",
+              "detail": "Agregue capacidad de reserva con cada línea de producción para que el exceso nunca se desperdicie."
+            },
+            {
+              "label": "Transporte",
+              "detail": "Utilice vehículos para transporte de superficie y transportadores para transferencias precisas entre puestos de avanzada."
+            },
+            {
+              "label": "Moral",
+              "detail": "Alterne las tareas de alto estrés y controle la moral después de cada encuentro peligroso."
+            },
+            {
+              "label": "Tripulación",
+              "detail": "Deje abierta una tarea flexible para que un evento de la historia no desmantele su economía."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Star Trek Outposts Unknown Guía de tripulación",
+          "description": "Compare los seis roles de la tripulación Starfleet y comprenda cómo las asignaciones, la moral, la destreza y el desarrollo de los oficiales dan forma al rendimiento de los puestos avanzados y a la supervivencia de los encuentros.",
+          "href": "/guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Comando",
+              "detail": "Lidera las prioridades de la misión y mantiene alineadas la exploración, la investigación y la construcción."
+            },
+            {
+              "label": "Ingeniería",
+              "detail": "Apoya la construcción, reparaciones, sistemas eléctricos y la cadena de producción."
+            },
+            {
+              "label": "Médico",
+              "detail": "Mantiene la salud de la tripulación y el procesamiento médico después de lesiones y trabajos de campo peligrosos."
+            },
+            {
+              "label": "Navegación",
+              "detail": "Maneja la planificación de rutas, estudios planetarios y movimiento a través del sistema X'Lehari."
+            },
+            {
+              "label": "Ciencia",
+              "detail": "Dota de personal a las instalaciones de investigación y convierte los datos de las encuestas en nueva tecnología."
+            },
+            {
+              "label": "Seguridad",
+              "detail": "Protege a los equipos visitantes y los puestos de avanzada durante encuentros peligrosos."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Star Trek Outposts Unknown Edificios e Investigación",
+          "description": "Planifique la huella del puesto de avanzada en torno a energía, alojamiento, investigación, almacenamiento, producción y reparaciones para que cada módulo pueda soportar el siguiente nivel tecnológico.",
+          "href": "/mechanics/star-trek-outposts-unknown-base-building",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Energía",
+              "detail": "Coloque los servicios públicos primero; cada módulo de investigación, producción y hábitat depende de un suministro estable."
+            },
+            {
+              "label": "Vivienda",
+              "detail": "Amplíe la capacidad de la tripulación con anticipación para que la moral y la dotación de personal no se estanquen a medida que crece el puesto de avanzada."
+            },
+            {
+              "label": "Investigación",
+              "detail": "Dote de personal las instalaciones de investigación de forma continua para desbloquear nuevas estructuras y niveles tecnológicos."
+            },
+            {
+              "label": "Almacenamiento",
+              "detail": "Protege cada línea de producción y deja espacio para los recursos que llegan de otros mundos."
+            },
+            {
+              "label": "Producción",
+              "detail": "Construya la cadena completa de entrada a salida en lugar de colocar cosechadoras o refinerías aisladas."
+            },
+            {
+              "label": "Reparaciones",
+              "detail": "Mantén disponibles los equipos de mantenimiento; los edificios dañados reducen el rendimiento de la colonia."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Star Trek Outposts Unknown Guía de planetas",
+          "description": "Clasifica los destinos conocidos del sistema X'Lehari según el riesgo del primer puesto avanzado, el acceso a los recursos y el apoyo logístico que exige cada mundo.",
+          "href": "/demo/star-trek-outposts-unknown-demo-gameplay",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Daegus — oasis tropical con agua, materia orgánica y espacio abierto para construir; el lugar más seguro para aprender el circuito del puesto avanzado central."
+            },
+            {
+              "label": "A",
+              "detail": "Kourou — glaciares helados, tierras baldías volcánicas y campos de vapor; fuertes recursos detrás de un exigente rompecabezas logístico de tres biomas."
+            },
+            {
+              "label": "B",
+              "detail": "Neral — el mundo conocido más hostil; lleva oficiales desarrollados, reservas profundas y una red de suministro madura."
+            },
+            {
+              "label": "C",
+              "detail": "Sitios Tetryon Rift: destinos críticos para la historia que deben esperar hasta que los puestos avanzados Daegus y Kourou puedan funcionar sin un rescate constante."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Star Trek Outposts Unknown Consejos de juego",
+          "description": "Utilice la pausa deliberadamente, proteja la moral de la tripulación y mantenga amortiguadores flexibles para que el puesto de avanzada sobreviva mientras el Resonant viaja a un nuevo mundo.",
+          "href": "/guide/star-trek-outposts-unknown-first-steps",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Pausa",
+              "detail": "Congela el reloj antes de ubicaciones importantes, desbloqueos de tecnología y encuentros peligrosos en la historia."
+            },
+            {
+              "label": "Moral",
+              "detail": "Rote los trabajos exigentes y trate el estrés de la tripulación como un recurso que necesita una gestión activa."
+            },
+            {
+              "label": "Amortiguadores",
+              "detail": "Almacene suficientes alimentos, medicinas y materiales de repuesto para sobrevivir a una entrega interrumpida."
+            },
+            {
+              "label": "Núcleo",
+              "detail": "Concentre el desarrollo de oficiales en un pequeño grupo de mando en lugar de distribuirlo por toda la plantilla."
+            },
+            {
+              "label": "Rutas",
+              "detail": "Construya puestos de avanzada compactos y acorte las líneas de suministro antes de expandirse más profundamente en el sistema."
+            },
+            {
+              "label": "Escaneos",
+              "detail": "Examina un planeta antes de comprometer estructuras; El entorno y el acceso a los recursos impulsan el diseño."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Star Trek Outposts Unknown Requisitos del sistema",
+          "description": "Consulta las especificaciones mínimas y recomendadas oficiales para PC antes de instalar Star Trek Outposts Unknown y planificar una larga partida de colonia.",
+          "href": "/release/star-trek-outposts-unknown-system-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "RAM",
+              "detail": "Se requieren 16 GB tanto en el nivel mínimo como en el recomendado; Los sistemas de 8 GB están por debajo de las especificaciones."
+            },
+            {
+              "label": "GPU",
+              "detail": "GTX 1660 6 GB o RX 5600 XT 8 GB como mínimo; Se recomienda RTX 3060 o RX 5700 XT."
+            },
+            {
+              "label": "Almacenamiento",
+              "detail": "10 GB de espacio disponible, con espacio adicional para guardar, parchear y cachés de sombreado."
+            },
+            {
+              "label": "OS",
+              "detail": "Windows 10 versión 21H1 o una instalación actual de Windows de 64 bits."
+            },
+            {
+              "label": "CPU",
+              "detail": "Ryzen 5 2600 o Core i5-8500 como mínimo; Se recomienda Ryzen 7 7800X3D o Core i5-14600K."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Star Trek Outposts Unknown Historia y Misiones",
+          "description": "Sigue la misión del U.S.S. Resonant a través del sistema X'Lehari, desde el primer contacto y la construcción del puesto avanzado hasta el misterio del Tetryon Rift.",
+          "href": "/release/star-trek-outposts-unknown-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Resonant",
+              "detail": "La nave constructora de puestos avanzados sirve como base de mando, almacén orbital y línea de suministro para cada aterrizaje."
+            },
+            {
+              "label": "Tetryon",
+              "detail": "La ruptura es el misterio central y cada destino añade otro ángulo a la amenaza."
+            },
+            {
+              "label": "April",
+              "detail": "El almirante Robert April aparece en la historia del siglo 23 junto con otros rostros familiares Starfleet."
+            },
+            {
+              "label": "Ayuda",
+              "detail": "La misión es ayudar a una civilización frágil que se enfrenta a una catástrofe inminente mientras crece la amenaza cósmica."
+            },
+            {
+              "label": "Puestos de avanzada",
+              "detail": "Los puestos de investigación permanentes forman la red de la campaña, por lo que cada asentamiento debe funcionar sin la presencia del capitán."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Star Trek Outposts Unknown Preguntas frecuentes",
+      "description": "Respuestas a preguntas comunes sobre Star Trek Outposts Unknown.",
+      "items": [
+        {
+          "question": "¿Qué es Star Trek Outposts Unknown?",
+          "answer": "Star Trek Outposts Unknown es un constructor narrativo de puestos avanzados de Magic Fuel Games y Playstack, ambientado en el siglo XXIII en el sistema X'Lehari. Los jugadores construyen puestos de investigación, gestionan seis roles de tripulación y equilibran exploración, tecnología y logística mientras investigan el Tetryon Rift."
+        },
+        {
+          "question": "¿Es Star Trek Outposts Unknown un juego de combate?",
+          "answer": "No. Star Trek Outposts Unknown es una simulación de colonias para un jugador con elementos de estrategia en tiempo real con pausa. Los encuentros peligrosos ponen a prueba la moral y la destreza de la tripulación, pero el bucle principal es la investigación, la exploración, la construcción y la gestión de recursos."
+        },
+        {
+          "question": "¿Qué debo construir primero en Star Trek Outposts Unknown?",
+          "answer": "Empieza con un puesto avanzado modesto en un mundo escaneado. Estabiliza la energía y el alojamiento, asigna personal a las instalaciones de investigación, conecta la primera cadena de producción y añade almacenamiento antes de expandirte a un segundo sitio."
+        },
+        {
+          "question": "¿Cómo funcionan los roles de tripulación en Star Trek Outposts Unknown?",
+          "answer": "Star Trek Outposts Unknown utiliza seis roles: Comando, Ingeniería, Médico, Navegación, Ciencia y Seguridad. Asigna oficiales según sus fortalezas, rota el trabajo de alto estrés y concentra el desarrollo en un grupo central pequeño."
+        },
+        {
+          "question": "¿Qué planeta debería explorar primero en Star Trek Outposts Unknown?",
+          "answer": "Empieza en Daegus, el mundo tropical utilizado para la demo jugable. Pasa a Kourou cuando tu primer puesto avanzado sea estable y trata Neral como un desafío tardío, ya que es el mundo conocido más hostil del sistema."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para construir tu puesto avanzado en el sistema X'Lehari?",
+      "description": "Desde tu primer aterrizaje en Daegus hasta una red de investigación por todo el sistema X'Lehari, nuestro wiki cubre la gestión de la tripulación, la logística de recursos, la exploración planetaria y cada paso del viaje.",
+      "primary": "Lea la guía para principiantes",
+      "secondary": "Jugar en Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Star Trek Outposts Unknown Guías",
+    "overviewDescription": "Tutoriales para principiantes, prioridades de supervivencia y consejos prácticos para Star Trek Outposts Unknown."
+  },
+  "mechanics": {
+    "overviewTitle": "Star Trek Outposts Unknown Mecánica",
+    "overviewDescription": "Comprenda la construcción de puestos de avanzada, el crecimiento de colonias, la producción de alimentos, las cadenas de recursos y los sistemas de barcos en Star Trek Outposts Unknown."
+  },
+  "release": {
+    "overviewTitle": "Star Trek Outposts Unknown Lanzamiento y plataformas",
+    "overviewDescription": "Detalles de la fecha de lanzamiento, disponibilidad en Steam, planes para consolas, precios y requisitos del sistema para PC."
+  },
+  "demo": {
+    "overviewTitle": "Star Trek Outposts Unknown Demostración",
+    "overviewDescription": "Disponibilidad de la demostración, impresiones del juego, detalles de descarga y lo que significa la demostración eliminada para los jugadores."
+  },
+  "reviews": {
+    "overviewTitle": "Star Trek Outposts Unknown Reseñas",
+    "overviewDescription": "Impresiones prácticas, reseñas de juegos y evaluaciones de valor para Star Trek Outposts Unknown."
+  },
+  "community": {
+    "overviewTitle": "Star Trek Outposts Unknown Comunidad",
+    "overviewDescription": "Discusiones oficiales de Discord, Reddit y preguntas multijugador para Star Trek Outposts Unknown."
+  },
+  "media": {
+    "overviewTitle": "Star Trek Outposts Unknown Medios",
+    "overviewDescription": "Tráilers oficiales, material de anuncio y jugabilidad del planeta Kourou para Star Trek Outposts Unknown."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación Wiki",
+    "guideHub": "Centro de guía",
+    "guideHubDescription": "Comience con la guía para principiantes, luego siga las mecánicas y las páginas de lanzamiento que coincidan con su siguiente pregunta.",
+    "browseGuides": "Explorar todas las guías",
+    "updated": "Actualizado",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenidos",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesita ayuda?",
+    "relatedReading": "Lectura relacionada",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!",
+    "playOnSteam": "Jugar en Steam"
+  },
+  "footer": {
+    "aboutTitle": "Star Trek Outposts Unknown Wiki",
+    "about": "Star Trek Outposts Unknown Wiki es un centro de guías independiente creado por fanáticos que cubre la construcción de puestos avanzados, la logística de recursos, la gestión de tripulaciones, la exploración de planetas y el conocimiento esencial del juego para capitanes nuevos y veteranos por igual.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Star Trek Outposts Unknown Wiki. No afiliado a CBS Studios, Paramount, Playstack o Magic Fuel Games.",
+    "description": "Construcción de puestos avanzados de ciencia ficción y gestión de colonias en el sistema X'Lehari. PC / Steam.",
+    "playGame": "Jugar en Steam",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Comunidad de Steam",
+    "beginnerGuide": "Guía para principiantes",
+    "mechanics": "Mecánica",
+    "release": "Lanzamiento",
+    "demo": "Demo",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  }
+}

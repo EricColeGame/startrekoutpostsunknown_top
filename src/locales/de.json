@@ -1,1 +1,506 @@
-{}
+{
+  "site": {
+    "name": "Star Trek Outposts Unknown Wiki",
+    "shortName": "Star Trek Outposts Unknown",
+    "tagline": "Außenpostenbau, Kolonieverwaltung und Leitfäden zum X'Lehari-System",
+    "description": "Star Trek Outposts Unknown: Leitfäden für Anfänger, Außenpostenbau, Ressourcenlogistik, Besatzungsmanagement, Planetenerkundung, Strategietipps und Updates.",
+    "legalNotice": "Unabhängiges Fan-Wiki. Star Trek und verwandte Marken gehören zu CBS Studios Inc. und sind nicht mit CBS, Paramount, Playstack oder Magic Fuel Games verbunden."
+  },
+  "nav": {
+    "home": "Startseite",
+    "menu": "Menü",
+    "toggleTheme": "Thema umschalten",
+    "guide": "Leitfaden",
+    "mechanics": "Mechaniken",
+    "release": "Release",
+    "demo": "Demo",
+    "reviews": "Rezensionen",
+    "community": "Gemeinschaft",
+    "media": "Medien"
+  },
+  "home": {
+    "meta": {
+      "title": "Star Trek Outposts Unknown Wiki – Leitfäden, Tipps und Builds",
+      "description": "Star Trek: Outposts Unknown: Leitfäden für Anfänger, Außenpostenbau, Ressourcenlogistik, Besatzungsmanagement, Planetenerkundung, Strategietipps und Updates."
+    },
+    "hero": {
+      "eyebrow": "Science-Fiction-Außenpostenbau und Koloniemanagement",
+      "title": "Star Trek Outposts Unknown Wiki",
+      "description": "Erkunden Sie das X'Lehari-System, bauen Sie Forschungsaußenposten, verwalten Sie die Besatzung, optimieren Sie die Ressourcenlogistik und decken Sie mit unseren Star Trek: Outposts Unknown-Leitfäden eine mysteriöse kosmische Bedrohung auf.",
+      "stats": [
+        "Veröffentlicht am 20. Oktober 2026",
+        "6 Besatzungsrollen",
+        "PC / Steam",
+        "Einzelspieler"
+      ],
+      "primaryCta": "Spielen Sie auf Steam",
+      "secondaryCta": "Anfängerleitfaden",
+      "tertiaryCta": "Erste Schritte",
+      "videoLabel": "Offizieller Trailer"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Durchsuchen Sie alle Leitfäden",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Beginnen Sie hier",
+      "title": "Ihre Reise durch Star Trek Outposts Unknown",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Anfängerleitfaden",
+          "description": "Lesen Sie die Missionsbesprechung, scannen Sie die Landezone und platzieren Sie einen bescheidenen Außenposten, bevor Sie sich im X'Lehari-System ausdehnen."
+        },
+        {
+          "number": "2",
+          "title": "Basisbau",
+          "description": "Richten Sie Energie, Wohnraum, Forschung und Lagerung in der richtigen Reihenfolge ein, damit Ihr erster Außenposten eine spätere Erweiterung unterstützen kann."
+        },
+        {
+          "number": "3",
+          "title": "Ressourcenmanagement",
+          "description": "Verbinden Sie die Lebensmittel-, Wasser-, Metall- und Medizinproduktion zu stabilen Lieferketten, bevor Sie einen zweiten Standort hinzufügen."
+        },
+        {
+          "number": "4",
+          "title": "Besatzungsrollen",
+          "description": "Ordnen Sie Führungs-, Ingenieur-, Medizin-, Navigations-, Wissenschafts- und Sicherheitsbeamte den Aufgaben zu, bei denen sie die besten Leistungen erbringen."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Aktuell im Trend",
+      "quickLinks": [
+        "Anfängerleitfaden",
+        "Basisbau",
+        "Ressourcenmanagement",
+        "Systemanforderungen"
+      ],
+      "cards": [
+        {
+          "badge": "Anfänger",
+          "title": "Anfängerleitfaden",
+          "description": "Erfahren Sie, wie Sie eine Welt scannen, Ihren ersten Außenposten platzieren, Besatzung zuweisen und die Forschung am Laufen halten.",
+          "href": "/guide/star-trek-outposts-unknown-beginner-guide"
+        },
+        {
+          "badge": "Kern",
+          "title": "Basisbau",
+          "description": "Planen Sie Energie, Wohnraum, Forschung, Lagerung und Produktion auf einer kompakten Außenpostenfläche.",
+          "href": "/mechanics/star-trek-outposts-unknown-base-building"
+        },
+        {
+          "badge": "Kern",
+          "title": "Ressourcenmanagement",
+          "description": "Bringen Sie Forschung, Bau, Erkundung, Mannschaftsmoral und Lagerung in Einklang, bevor Engpässe die Kolonie zum Erliegen bringen.",
+          "href": "/mechanics/star-trek-outposts-unknown-resource-management"
+        },
+        {
+          "badge": "Überleben",
+          "title": "Nahrungsproduktion",
+          "description": "Verbinden Sie die Gewinnung, Verarbeitung, medizinische Versorgung und Reparatur von Biomasse in einer zuverlässigen Überlebenskette.",
+          "href": "/mechanics/star-trek-outposts-unknown-food-production"
+        },
+        {
+          "badge": "System",
+          "title": "Systemanforderungen",
+          "description": "Überprüfen Sie die offiziellen PC-Mindest- und empfohlenen Spezifikationen, bevor Sie den Außenposten-Builder installieren.",
+          "href": "/release/star-trek-outposts-unknown-system-requirements"
+        },
+        {
+          "badge": "Geschichte",
+          "title": "Erste Schritte",
+          "description": "Befolgen Sie einen sechsstufigen Eröffnungsplan für Forschung, Außenpostenlayout, Mannschaftsmoral und manuelle Speicherungen.",
+          "href": "/guide/star-trek-outposts-unknown-first-steps"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Star Trek Outposts Unknown?",
+      "paragraphs": [
+        "Star Trek Outposts Unknown ist ein narrativer Außenpostenbauer von Magic Fuel Games und Playstack. Das Spiel spielt im 23. Jahrhundert während der Ära von Strange New Worlds und folgt der Besatzung der U.S.S. Resonant, während sie Forschungsaußenposten im X'Lehari-System errichtet und einer fragilen Zivilisation hilft, die einer kosmischen Bedrohung gegenübersteht.",
+        "Das Spiel kombiniert Koloniemanagement in Echtzeit mit Pause, Erkundung, verzweigter Forschung, Produktionsketten und Offiziersentwicklung. Die Spieler balancieren Energie, Unterkünfte, Nahrung, medizinische Versorgung, Metall und Transport aus, während sechs Besatzungsrollen jeden Außenposten am Laufen halten."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Magic Fuel Games"
+        },
+        {
+          "label": "Herausgeber",
+          "value": "Playstack"
+        },
+        {
+          "label": "Veröffentlichung",
+          "value": "20. Okt. 2026"
+        },
+        {
+          "label": "Plattform",
+          "value": "PC / Steam"
+        },
+        {
+          "label": "Genre",
+          "value": "Außenpostenbauer"
+        },
+        {
+          "label": "Modus",
+          "value": "Einzelspieler"
+        }
+      ],
+      "cta": "Entdecken Sie alle Leitfäden"
+    },
+    "explore": {
+      "title": "Entdecken Sie Star Trek Outposts Unknown Wiki",
+      "description": "Verwenden Sie diese acht Leitfäden, um Ihre erste Landung zu planen, Versorgungsketten zu stabilisieren, Besatzung zuzuweisen, Forschung auszuwählen und dem Geheimnis des Tetryon-Rifts durch das X'Lehari-System zu folgen.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Star Trek Outposts Unknown Anfängerleitfaden",
+          "description": "Bauen Sie einen stabilen ersten Außenposten mit einer klaren Checkliste für die Eröffnung, die Missionsbesprechungen, Scans, Forschung, Besatzungszuweisungen und Versorgungsreserven umfasst.",
+          "href": "/guide/star-trek-outposts-unknown-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Lesen Sie die Missionsbesprechung und notieren Sie sich das aktuelle Ziel, bevor Sie eine Struktur platzieren."
+            },
+            {
+              "label": "2",
+              "detail": "Scannen Sie die Landezone und vergleichen Sie die Umgebungsbedingungen, den Ressourcenzugang und den Raum für Erweiterungen."
+            },
+            {
+              "label": "3",
+              "detail": "Platzieren Sie einen bescheidenen Außenposten und überprüfen Sie dessen Stromversorgung, Behausung und Lieferkette, bevor Sie einen zweiten Standort hinzufügen."
+            },
+            {
+              "label": "4",
+              "detail": "Ordnen Sie die Besatzung nach Stärke zu und behalten Sie Moral und Können im Auge, bevor es zu gefährlichen Begegnungen kommt."
+            },
+            {
+              "label": "5",
+              "detail": "Testen Sie eine Fahrzeugroute und einen Transportertransfer, damit Sie die tatsächlichen Kosten verstehen."
+            },
+            {
+              "label": "6",
+              "detail": "Halten Sie die Forschungswarteschlange gefüllt und legen Sie vor jedem größeren Bau einen manuellen Spielstand an."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Star Trek Outposts Unknown Ressourcenmanagement",
+          "description": "Sorgen Sie dafür, dass Forschung, Bau, Erkundung, Mannschaftsmoral und Lagerung gemeinsam voranschreiten, anstatt zuzulassen, dass ein Engpass die ganze Kolonie zum Erliegen bringt.",
+          "href": "/mechanics/star-trek-outposts-unknown-resource-management",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Forschung",
+              "detail": "Halten Sie ein Forschungsprojekt besetzt; ungenutzte Forschungszeit ist der größte frühe Fortschrittsverlust."
+            },
+            {
+              "label": "Energie",
+              "detail": "Klären Sie die Strom- und Versorgungskapazität, bevor Sie fortgeschrittene Produktions- oder Forschungsmodule platzieren."
+            },
+            {
+              "label": "Lagerung",
+              "detail": "Fügen Sie bei jeder Produktionslinie Pufferkapazität hinzu, damit Überlauf nie zu Produktionsverschwendung führt."
+            },
+            {
+              "label": "Transport",
+              "detail": "Verwenden Sie Fahrzeuge für den Landtransport und Transporter für präzise Transfers zwischen Außenposten."
+            },
+            {
+              "label": "Moral",
+              "detail": "Wechseln Sie hochbelastete Aufgaben ab und überprüfen Sie nach jeder gefährlichen Begegnung die Moral."
+            },
+            {
+              "label": "Besatzung",
+              "detail": "Lassen Sie eine flexible Aufgabe offen, damit ein Story-Ereignis Ihre Wirtschaft nicht zerstört."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Star Trek Outposts Unknown Besatzungsleitfaden",
+          "description": "Vergleichen Sie die sechs Starfleet-Besatzungsrollen und verstehen Sie, wie Aufgaben, Moral, Können und Offiziersentwicklung die Leistung des Außenpostens und das Überleben von Begegnungen beeinflussen.",
+          "href": "/guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Kommando",
+              "detail": "Leitet Missionsprioritäten und sorgt dafür, dass Exploration, Forschung und Bau aufeinander abgestimmt sind."
+            },
+            {
+              "label": "Technik",
+              "detail": "Unterstützt Bau, Reparaturen, Energiesysteme und die Produktionskette."
+            },
+            {
+              "label": "Medizin",
+              "detail": "Sorgt für die Gesundheit der Besatzung und die medizinische Versorgung nach Verletzungen und gefährlichen Feldarbeiten."
+            },
+            {
+              "label": "Navigation",
+              "detail": "Verwaltet Routenplanung, Planetenvermessungen und Bewegungen im gesamten X'Lehari-System."
+            },
+            {
+              "label": "Wissenschaft",
+              "detail": "Besetzt Forschungseinrichtungen und wandelt Vermessungsdaten in neue Technologien um."
+            },
+            {
+              "label": "Sicherheit",
+              "detail": "Schützt Auswärtsteams und Außenposten bei gefährlichen Begegnungen."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Star Trek Outposts Unknown Gebäude und Forschung",
+          "description": "Planen Sie den Außenposten rund um Energie, Wohnraum, Forschung, Lagerung, Produktion und Reparaturen, sodass jedes Modul die nächste Technologiestufe unterstützen kann.",
+          "href": "/mechanics/star-trek-outposts-unknown-base-building",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Energie",
+              "detail": "Platzieren Sie zuerst Versorgungseinrichtungen; jedes Forschungs-, Produktions- und Wohnmodul ist auf eine stabile Versorgung angewiesen."
+            },
+            {
+              "label": "Wohnraum",
+              "detail": "Erweitern Sie die Besatzungskapazität frühzeitig, damit Moral und Personalbesetzung nicht nachlassen, wenn der Außenposten wächst."
+            },
+            {
+              "label": "Forschung",
+              "detail": "Besetzen Sie kontinuierlich Forschungseinrichtungen, um neue Strukturen und Technologieebenen freizuschalten."
+            },
+            {
+              "label": "Lagerung",
+              "detail": "Puffern Sie jede Produktionslinie und lassen Sie Platz für Ressourcen, die aus anderen Welten eintreffen."
+            },
+            {
+              "label": "Produktion",
+              "detail": "Bauen Sie die vollständige Kette vom Rohstoff zum Endprodukt auf, anstatt isolierte Sammler oder Raffinerien zu platzieren."
+            },
+            {
+              "label": "Reparaturen",
+              "detail": "Halten Sie Wartungsteams verfügbar; Beschädigte Gebäude beeinträchtigen den Durchsatz der Kolonie."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Star Trek Outposts Unknown Planetenleitfaden",
+          "description": "Ordnen Sie die bekannten Ziele im X'Lehari-System nach dem Risiko des ersten Außenpostens, dem Ressourcenzugang und der logistischen Unterstützung, die jede Welt benötigt.",
+          "href": "/demo/star-trek-outposts-unknown-demo-gameplay",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Daegus – tropische Oase mit Wasser, organischen Stoffen und offenem Bauraum; der sicherste Ort, um die Kernschleife des Außenpostens zu erlernen."
+            },
+            {
+              "label": "A",
+              "detail": "Kourou – gefrorene Gletscher, vulkanische Ödlande und Dampffelder; starke Ressourcen hinter einem anspruchsvollen Drei-Biome-Logistikpuzzle."
+            },
+            {
+              "label": "B",
+              "detail": "Neral – die feindseligste bekannte Welt; bringen entwickelte Offiziere, große Reserven und ein ausgereiftes Versorgungsnetz mit."
+            },
+            {
+              "label": "C",
+              "detail": "Tetryon Rift-Standorte – Story-kritische Ziele, die warten sollten, bis die Außenposten Daegus und Kourou ohne ständige Rettung funktionieren können."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Star Trek Outposts Unknown Gameplay-Tipps",
+          "description": "Setzen Sie Pausen bewusst ein, schützen Sie die Moral der Besatzung und sorgen Sie für flexible Puffer, damit der Außenposten überlebt, während die Resonant in eine neue Welt reist.",
+          "href": "/guide/star-trek-outposts-unknown-first-steps",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Pause",
+              "detail": "Halten Sie die Zeit an, bevor es zu wichtigen Platzierungen, technischen Freischaltungen und gefährlichen Story-Begegnungen kommt."
+            },
+            {
+              "label": "Moral",
+              "detail": "Wechseln Sie anspruchsvolle Aufgaben ab und betrachten Sie den Stress der Besatzung als Ressource, die aktiv gemanagt werden muss."
+            },
+            {
+              "label": "Puffer",
+              "detail": "Lagern Sie genügend Lebensmittel, Medikamente und Ersatzmaterialien, um eine unterbrochene Lieferung zu überstehen."
+            },
+            {
+              "label": "Kernteam",
+              "detail": "Konzentrieren Sie die Offiziersentwicklung auf eine kleine Kommandogruppe, anstatt sie über den gesamten Dienstplan zu verteilen."
+            },
+            {
+              "label": "Routen",
+              "detail": "Bauen Sie kompakte Außenposten und verkürzen Sie die Versorgungsleitungen, bevor Sie tiefer in das System vordringen."
+            },
+            {
+              "label": "Scans",
+              "detail": "Vermessen Sie einen Planeten, bevor Sie Bauwerke errichten; Umgebung und Ressourcenzugang bestimmen das Layout."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Star Trek Outposts Unknown Systemanforderungen",
+          "description": "Überprüfen Sie die offiziellen PC-Mindest- und empfohlenen Spezifikationen, bevor Sie Star Trek Outposts Unknown installieren und einen langen Kolonielauf planen.",
+          "href": "/release/star-trek-outposts-unknown-system-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "RAM",
+              "detail": "Sowohl bei der Mindeststufe als auch bei der empfohlenen Stufe sind 16 GB erforderlich; 8-GB-Systeme liegen unter den Spezifikationen."
+            },
+            {
+              "label": "GPU",
+              "detail": "GTX 1660 6 GB oder RX 5600 XT 8 GB mindestens; RTX 3060 oder RX 5700 XT empfohlen."
+            },
+            {
+              "label": "Lagerung",
+              "detail": "10 GB verfügbarer Speicherplatz, mit zusätzlichem Platz für Spielstände, Patches und Shader-Caches."
+            },
+            {
+              "label": "OS",
+              "detail": "Windows 10 Version 21H1 oder eine aktuelle 64-Bit-Windows-Installation."
+            },
+            {
+              "label": "CPU",
+              "detail": "Mindestens Ryzen 5 2600 oder Core i5-8500; Ryzen 7 7800X3D oder Core i5-14600K empfohlen."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Star Trek Outposts Unknown Geschichte und Missionen",
+          "description": "Verfolgen Sie die Mission der U.S.S. Resonant durch das X'Lehari-System, vom ersten Kontakt und dem Bau des Außenpostens bis zum Geheimnis des Tetryon-Rifts.",
+          "href": "/release/star-trek-outposts-unknown-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Resonant",
+              "detail": "Das Außenposten-Bauschiff dient als Kommandobasis, Orbitallager und Versorgungslinie für jede Landung."
+            },
+            {
+              "label": "Tetryon",
+              "detail": "Der Riss ist das zentrale Mysterium, und jedes Ziel fügt der Bedrohung einen weiteren Aspekt hinzu."
+            },
+            {
+              "label": "April",
+              "detail": "Admiral Robert April erscheint in der Geschichte des 23. Jahrhunderts neben anderen bekannten Starfleet-Gesichtern."
+            },
+            {
+              "label": "Hilfe",
+              "detail": "Die Mission besteht darin, einer fragilen Zivilisation zu helfen, die vor einer drohenden Katastrophe steht, während die kosmische Bedrohung wächst."
+            },
+            {
+              "label": "Außenposten",
+              "detail": "Permanente Forschungsaußenposten bilden das Netzwerk der Kampagne, daher muss jede Siedlung ohne Anwesenheit des Kapitäns betrieben werden."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Star Trek Outposts Unknown FAQ",
+      "description": "Antworten auf häufige Fragen zu Star Trek Outposts Unknown.",
+      "items": [
+        {
+          "question": "Was ist Star Trek Outposts Unknown?",
+          "answer": "Star Trek Outposts Unknown ist ein narrativer Außenpostenbauer von Magic Fuel Games und Playstack, der im 23. Jahrhundert im X'Lehari-System spielt. Spieler bauen Forschungsaußenposten, verwalten sechs Besatzungsrollen und balancieren Erkundung, Technologie und Logistik aus, während sie das Tetryon-Rift untersuchen."
+        },
+        {
+          "question": "Ist Star Trek Outposts Unknown ein Kampfspiel?",
+          "answer": "Nein. Star Trek Outposts Unknown ist eine Einzelspieler-Koloniesimulation mit Echtzeit-Pause-Strategieelementen. Gefährliche Begegnungen stellen die Moral und das Können der Besatzung auf die Probe, aber der Kern besteht aus Forschung, Erkundung, Bau und Ressourcenmanagement."
+        },
+        {
+          "question": "Was soll ich zuerst in Star Trek Outposts Unknown bauen?",
+          "answer": "Beginnen Sie mit einem bescheidenen Außenposten auf einer gescannten Welt. Stabilisieren Sie Energie und Wohnraum, besetzen Sie Forschungseinrichtungen, verbinden Sie die erste Produktionskette und fügen Sie Lagerkapazität hinzu, bevor Sie auf einen zweiten Standort erweitern."
+        },
+        {
+          "question": "Wie funktionieren die Besatzungsrollen in Star Trek Outposts Unknown?",
+          "answer": "Star Trek Outposts Unknown verwendet sechs Rollen: Kommando, Technik, Medizin, Navigation, Wissenschaft und Sicherheit. Ordnen Sie Offiziere nach ihren Stärken zu, wechseln Sie hochbelastete Aufgaben ab und konzentrieren Sie die Entwicklung auf eine kleine Kerngruppe."
+        },
+        {
+          "question": "Welchen Planeten sollte ich in Star Trek Outposts Unknown zuerst erkunden?",
+          "answer": "Beginnen Sie mit Daegus, der tropischen Welt, die für die spielbare Demo verwendet wird. Wechseln Sie nach Kourou, sobald Ihr erster Außenposten stabil ist, und behandeln Sie Neral als späte Herausforderung, da es die feindseligste bekannte Welt im System ist."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Sind Sie bereit, Ihren Außenposten im X'Lehari-System zu errichten?",
+      "description": "Von Ihrer ersten Landung auf Daegus bis zu einem Forschungsnetzwerk im gesamten X'Lehari-System deckt unser Wiki Besatzungsmanagement, Ressourcenlogistik, Planetenerkundung und jeden Schritt der Reise ab.",
+      "primary": "Lesen Sie den Anfängerleitfaden",
+      "secondary": "Spielen Sie auf Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Star Trek Outposts Unknown Anleitungen",
+    "overviewDescription": "Anfängerleitfäden, Überlebensprioritäten und praktische Tipps für Star Trek Outposts Unknown."
+  },
+  "mechanics": {
+    "overviewTitle": "Star Trek Outposts Unknown Mechaniken",
+    "overviewDescription": "Verstehen Sie den Aufbau von Außenposten, das Koloniewachstum, die Nahrungsmittelproduktion, Ressourcenketten und Schiffssysteme in Star Trek Outposts Unknown."
+  },
+  "release": {
+    "overviewTitle": "Star Trek Outposts Unknown Version und Plattformen",
+    "overviewDescription": "Details zum Veröffentlichungsdatum, zur Steam-Verfügbarkeit, zu Konsolenplänen, Preisen und PC-Systemanforderungen."
+  },
+  "demo": {
+    "overviewTitle": "Star Trek Outposts Unknown Demo",
+    "overviewDescription": "Demo-Verfügbarkeit, Gameplay-Eindrücke, Download-Details und was die entfernte Demo für Spieler bedeutet."
+  },
+  "reviews": {
+    "overviewTitle": "Star Trek Outposts Unknown Rezensionen",
+    "overviewDescription": "Praktische Eindrücke, Gameplay-Rezensionen und Einschätzungen des Spielwerts von Star Trek Outposts Unknown."
+  },
+  "community": {
+    "overviewTitle": "Star Trek Outposts Unknown Gemeinschaft",
+    "overviewDescription": "Offizielle Discord-, Reddit-Diskussionen und Multiplayer-Fragen für Star Trek Outposts Unknown."
+  },
+  "media": {
+    "overviewTitle": "Star Trek Outposts Unknown Medien",
+    "overviewDescription": "Offizielle Trailer, Ankündigungsmaterial und Kourou-Planetengameplay für Star Trek Outposts Unknown."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "guideHub": "Leitfaden-Hub",
+    "guideHubDescription": "Beginnen Sie mit dem Anfängerleitfaden und folgen Sie dann den Mechaniken und Release-Seiten, die zu Ihrer nächsten Frage passen.",
+    "browseGuides": "Alle Leitfäden durchsuchen",
+    "updated": "Aktualisiert",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchen Sie Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Leitfäden",
+    "readMore": "Lesen Sie mehr",
+    "officialMedia": "Offizielle Medien",
+    "home": "Zuhause",
+    "noGuidesAvailable": "Noch keine Anleitungen verfügbar. Schauen Sie bald wieder vorbei!",
+    "playOnSteam": "Auf Steam spielen"
+  },
+  "footer": {
+    "aboutTitle": "Star Trek Outposts Unknown Wiki",
+    "about": "Star Trek Outposts Unknown Wiki ist ein unabhängiger, von Fans erstellter Leitfaden-Hub, der den Aufbau von Außenposten, Ressourcenlogistik, Besatzungsmanagement, Planetenerkundung und grundlegendes Spielwissen für neue und erfahrene Kapitäne gleichermaßen behandelt.",
+    "quickLinks": "Schnellzugriff",
+    "guides": "Leitfäden",
+    "legal": "Rechtliches",
+    "copyright": "2026 Star Trek Outposts Unknown Wiki. Nicht verbunden mit CBS Studios, Paramount, Playstack oder Magic Fuel Games.",
+    "description": "Science-Fiction-Außenpostenbau und Koloniemanagement im X'Lehari-System. PC / Steam.",
+    "playGame": "Spielen Sie auf Steam",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizielles YouTube",
+    "vvBuilder": "Steam-Community",
+    "beginnerGuide": "Anfängerleitfaden",
+    "mechanics": "Mechaniken",
+    "release": "Release",
+    "demo": "Demo",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}

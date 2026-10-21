@@ -472,7 +472,6 @@
     "guideHubDescription": "Start with the beginner guide, then follow the mechanics and release pages that match your next question.",
     "browseGuides": "Browse all guides",
     "updated": "Updated",
-    "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
@@ -482,7 +481,8 @@
     "readMore": "Read more",
     "officialMedia": "Official media",
     "home": "Home",
-    "noGuidesAvailable": "No guides available yet. Check back soon!"
+    "noGuidesAvailable": "No guides available yet. Check back soon!",
+    "playOnSteam": "Play on Steam"
   },
   "footer": {
     "aboutTitle": "Star Trek Outposts Unknown Wiki",
